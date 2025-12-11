@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.06
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Type Recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Ab initio study of highly charged ion-induced Coulomb explosion imaging**|Misa Viveiros et.al.|[2512.08102](http://arxiv.org/abs/2512.08102)|null|
+|**2025-12-04**|**NVLang: Unified Static Typing for Actor-Based Concurrency on the BEAM**|Miguel de Oliveira Guerreiro et.al.|[2512.05224](http://arxiv.org/abs/2512.05224)|null|
 |**2025-12-04**|**Learning Causality for Longitudinal Data**|Mouad EL Bouchattaoui et.al.|[2512.04980](http://arxiv.org/abs/2512.04980)|null|
 |**2025-12-04**|**Large Speech Model Enabled Semantic Communication**|Yun Tian et.al.|[2512.04711](http://arxiv.org/abs/2512.04711)|null|
 |**2025-12-04**|**Cryptanalysis of Gleeok-128**|Siwei Chen et.al.|[2512.04675](http://arxiv.org/abs/2512.04675)|null|
@@ -29,6 +31,13 @@ layout: default
 |**2025-12-02**|**Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective**|Qiyao Xue et.al.|[2512.02340](http://arxiv.org/abs/2512.02340)|null|
 |**2025-12-02**|**New Constructions of Non-GRS MDS Codes, Recovery and Determination Algorithms for GRS Codes**|Guodong Wang et.al.|[2512.02325](http://arxiv.org/abs/2512.02325)|null|
 |**2025-12-01**|**The Art of Scaling Test-Time Compute for Large Language Models**|Aradhye Agarwal et.al.|[2512.02008](http://arxiv.org/abs/2512.02008)|null|
+|**2025-11-30**|**PG-HIVE: Hybrid Incremental Schema Discovery for Property Graphs**|Sofia Sideri et.al.|[2512.01092](http://arxiv.org/abs/2512.01092)|null|
+|**2025-11-26**|**Discovery and recovery of crystalline materials with property-conditioned transformers**|Cyprien Bone et.al.|[2511.21299](http://arxiv.org/abs/2511.21299)|null|
+|**2025-11-26**|**Shock-type inference of L1157 B2 using methanol desorption**|Cedric Baijot et.al.|[2511.21234](http://arxiv.org/abs/2511.21234)|null|
+|**2025-11-13**|**Omnidirectional type inference for ML: principality any way**|Alistair O'Brien et.al.|[2511.10343](http://arxiv.org/abs/2511.10343)|null|
+|**2025-11-04**|**Theoretical Guarantees for Causal Discovery on Large Random Graphs**|Mathieu Chevalley et.al.|[2511.02536](http://arxiv.org/abs/2511.02536)|null|
+|**2025-10-18**|**Common-Individual Embedding for Dynamic Networks with Temporal Group Structure**|Hairi Bai et.al.|[2510.16337](http://arxiv.org/abs/2510.16337)|null|
+|**2025-10-02**|**Large-Scale Bayesian Causal Discovery with Interventional Data**|Seong Woo Han et.al.|[2510.01562](http://arxiv.org/abs/2510.01562)|null|
 
 ## Indirect Call
 
@@ -54,11 +63,23 @@ layout: default
 |**2025-12-01**|**Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code**|Pritam Deka et.al.|[2512.02170](http://arxiv.org/abs/2512.02170)|null|
 |**2025-12-01**|**Bounded treewidth, multiple context-free grammars, and downward closures**|C. Aiswarya et.al.|[2512.01973](http://arxiv.org/abs/2512.01973)|null|
 |**2025-12-01**|**Minimally tough series-parallel graphs with toughness at least $1/2$**|Gyula Y. Katona et.al.|[2512.01905](http://arxiv.org/abs/2512.01905)|null|
+|**2025-11-28**|**GAPS: Guiding Dynamic Android Analysis with Static Path Synthesis**|Samuele Doria et.al.|[2511.23213](http://arxiv.org/abs/2511.23213)|null|
+|**2025-11-13**|**AssertMiner: Module-Level Spec Generation and Assertion Mining using Static Analysis Guided LLMs**|Hongqin Lyu et.al.|[2511.10007](http://arxiv.org/abs/2511.10007)|null|
+|**2025-11-10**|**PhaseSeed: Precise Call Graph Construction for Split-Phase Applications using Dynamic Seeding**|Tapti Palit et.al.|[2511.06661](http://arxiv.org/abs/2511.06661)|null|
+|**2025-11-01**|**SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin**|Vahid Etemadi et.al.|[2511.00450](http://arxiv.org/abs/2511.00450)|null|
+|**2025-10-30**|**Toward Automated Security Risk Detection in Large Software Using Call Graph Analysis**|Nicholas Pecka et.al.|[2510.26620](http://arxiv.org/abs/2510.26620)|null|
+|**2025-10-27**|**Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing**|Yifan Zhang et.al.|[2510.23101](http://arxiv.org/abs/2510.23101)|null|
+|**2025-10-22**|**Trace: Securing Smart Contract Repository Against Access Control Vulnerability**|Chong Chen et.al.|[2510.19254](http://arxiv.org/abs/2510.19254)|null|
+|**2025-10-20**|**Breaking and Fixing Defenses Against Control-Flow Hijacking in Multi-Agent Systems**|Rishi Jha et.al.|[2510.17276](http://arxiv.org/abs/2510.17276)|null|
+|**2025-11-04**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
+|**2025-10-14**|**Enhancing Neural Code Representation with Additional Context**|Huy Nguyen et.al.|[2510.12082](http://arxiv.org/abs/2510.12082)|null|
 
 ## Vulneribility Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection**|Yuzhou Nie et.al.|[2512.07533](http://arxiv.org/abs/2512.07533)|null|
+|**2025-12-06**|**UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems**|Xianzong Wu et.al.|[2512.06406](http://arxiv.org/abs/2512.06406)|null|
 |**2025-12-04**|**SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security**|Wei Zhao et.al.|[2512.04841](http://arxiv.org/abs/2512.04841)|null|
 |**2025-12-04**|**Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs**|Jinbo Liu et.al.|[2512.04668](http://arxiv.org/abs/2512.04668)|null|
 |**2025-12-04**|**Counterfeit Answers: Adversarial Forgery against OCR-Free Document Visual Question Answering**|Marco Pintore et.al.|[2512.04554](http://arxiv.org/abs/2512.04554)|null|
@@ -66,6 +87,7 @@ layout: default
 |**2025-12-04**|**AutoGuard: A Self-Healing Proactive Security Layer for DevSecOps Pipelines Using Reinforcement Learning**|Praveen Anugula et.al.|[2512.04368](http://arxiv.org/abs/2512.04368)|null|
 |**2025-12-03**|**WildCode: An Empirical Analysis of Code Generated by ChatGPT**|Kobra Khanmohammadi et.al.|[2512.04259](http://arxiv.org/abs/2512.04259)|null|
 |**2025-12-03**|**Beyond Flicker: Detecting Kinematic Inconsistencies for Generalizable Deepfake Video Detection**|Alejandro Cobo et.al.|[2512.04175](http://arxiv.org/abs/2512.04175)|null|
+|**2025-11-28**|**Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection**|Fouad Trad et.al.|[2512.04106](http://arxiv.org/abs/2512.04106)|null|
 |**2025-12-03**|**MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction**|Guole Shen et.al.|[2512.03939](http://arxiv.org/abs/2512.03939)|null|
 |**2025-12-03**|**A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software**|Shree Hari Bittugondanahalli Indra Kumar et.al.|[2512.03868](http://arxiv.org/abs/2512.03868)|null|
 |**2025-12-03**|**Out-of-the-box: Black-box Causal Attacks on Object Detectors**|Melane Navaratnarajah et.al.|[2512.03730](http://arxiv.org/abs/2512.03730)|null|
@@ -75,10 +97,17 @@ layout: default
 |**2025-12-01**|**DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses**|Han Luo et.al.|[2512.02282](http://arxiv.org/abs/2512.02282)|null|
 |**2025-12-01**|**CVE Breadcrumbs: Tracking Vulnerabilities Through Versioned Apache Libraries**|Derek Garcia et.al.|[2512.02259](http://arxiv.org/abs/2512.02259)|null|
 |**2025-12-01**|**Factor(T,U): Factored Cognition Strengthens Monitoring of Untrusted AI**|Aaron Sandoval et.al.|[2512.02157](http://arxiv.org/abs/2512.02157)|null|
+|**2025-11-29**|**Large Language Model based Smart Contract Auditing with LLMBugScanner**|Yining Yuan et.al.|[2512.02069](http://arxiv.org/abs/2512.02069)|null|
 |**2025-12-01**|**Behind the Curtain: How Shared Hosting Providers Respond to Vulnerability Notifications**|Giada Stivala et.al.|[2512.01891](http://arxiv.org/abs/2512.01891)|null|
 |**2025-12-01**|**GPTrace: Effective Crash Deduplication Using LLM Embeddings**|Patrick Herter et.al.|[2512.01609](http://arxiv.org/abs/2512.01609)|null|
 |**2025-12-01**|**Heuristic algorithms for the stochastic critical node detection problem**|Tuguldur Bayarsaikhan et.al.|[2512.01497](http://arxiv.org/abs/2512.01497)|null|
 |**2025-12-01**|**BackportBench: A Multilingual Benchmark for Automated Backporting of Patches**|Zhiqing Zhong et.al.|[2512.01396](http://arxiv.org/abs/2512.01396)|null|
+|**2025-12-01**|**Large Language Models Cannot Reliably Detect Vulnerabilities in JavaScript: The First Systematic Benchmark and Evaluation**|Qingyuan Fei et.al.|[2512.01255](http://arxiv.org/abs/2512.01255)|null|
+|**2025-11-27**|**UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond**|Vadim Safronov et.al.|[2511.22359](http://arxiv.org/abs/2511.22359)|null|
+|**2025-11-24**|**Can LLMs Recover Program Semantics? A Systematic Evaluation with Symbolic Execution**|Rong Feng et.al.|[2511.19130](http://arxiv.org/abs/2511.19130)|null|
+|**2025-11-23**|**LLMs as Firmware Experts: A Runtime-Grown Tree-of-Agents Framework**|Xiangrui Zhang et.al.|[2511.18438](http://arxiv.org/abs/2511.18438)|null|
+|**2025-11-20**|**RampoNN: A Reachability-Guided System Falsification for Efficient Cyber-Kinetic Vulnerability Detection**|Kohei Tsujio et.al.|[2511.16765](http://arxiv.org/abs/2511.16765)|null|
+|**2025-11-15**|**Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection**|Jie Chen et.al.|[2511.12164](http://arxiv.org/abs/2511.12164)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
