@@ -1,4 +1,4 @@
-## Updated on 2025.12.16
+## Updated on 2025.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Amortized Causal Discovery with Prior-Fitted Networks**|Mateusz Sypniewski et.al.|[2512.11840](http://arxiv.org/abs/2512.11840)|null|
 |**2025-12-10**|**QSMnet-INR: Single-Orientation Quantitative Susceptibility Mapping via Implicit Neural Representation in k-Space**|Xuan Cai et.al.|[2512.09425](http://arxiv.org/abs/2512.09425)|null|
 |**2025-12-08**|**Ab initio study of highly charged ion-induced Coulomb explosion imaging**|Misa Viveiros et.al.|[2512.08102](http://arxiv.org/abs/2512.08102)|null|
 |**2025-12-04**|**NVLang: Unified Static Typing for Actor-Based Concurrency on the BEAM**|Miguel de Oliveira Guerreiro et.al.|[2512.05224](http://arxiv.org/abs/2512.05224)|null|
@@ -45,12 +46,13 @@
 |**2025-10-18**|**Common-Individual Embedding for Dynamic Networks with Temporal Group Structure**|Hairi Bai et.al.|[2510.16337](http://arxiv.org/abs/2510.16337)|null|
 |**2025-10-02**|**Large-Scale Bayesian Causal Discovery with Interventional Data**|Seong Woo Han et.al.|[2510.01562](http://arxiv.org/abs/2510.01562)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Indirect Call
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-14**|**Variable Record Table: A Unified Hardware-Assisted Framework for Runtime Security**|Suraj Kumar Sah et.al.|[2512.15777](http://arxiv.org/abs/2512.15777)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**Towards an AI Fluid Scientist: LLM-Powered Scientific Discovery in Experimental Fluid Mechanics**|Haodong Feng et.al.|[2512.04716](http://arxiv.org/abs/2512.04716)|null|
 |**2025-12-04**|**Colorings of unrooted tree-based networks and related graphs**|Mirko Wilde et.al.|[2512.04693](http://arxiv.org/abs/2512.04693)|null|
@@ -82,12 +84,16 @@
 |**2025-11-04**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
 |**2025-10-14**|**Enhancing Neural Code Representation with Additional Context**|Huy Nguyen et.al.|[2510.12082](http://arxiv.org/abs/2510.12082)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Vulneribility Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
+|**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
+|**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
+|**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
 |**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
 |**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
 |**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
@@ -123,7 +129,7 @@
 |**2025-11-20**|**RampoNN: A Reachability-Guided System Falsification for Efficient Cyber-Kinetic Vulnerability Detection**|Kohei Tsujio et.al.|[2511.16765](http://arxiv.org/abs/2511.16765)|null|
 |**2025-11-15**|**Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection**|Jie Chen et.al.|[2511.12164](http://arxiv.org/abs/2511.12164)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
