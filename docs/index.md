@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.21
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Type Recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**A Universal Framework for Factorial Matched Observational Studies with General Treatment Types: Design, Analysis, and Applications**|Jianan Zhu et.al.|[2512.18997](http://arxiv.org/abs/2512.18997)|null|
+|**2025-12-21**|**Image Denoising via Quantum Reservoir Computing**|Soumyadip Das et.al.|[2512.18612](http://arxiv.org/abs/2512.18612)|null|
 |**2025-12-03**|**Amortized Causal Discovery with Prior-Fitted Networks**|Mateusz Sypniewski et.al.|[2512.11840](http://arxiv.org/abs/2512.11840)|null|
 |**2025-12-10**|**QSMnet-INR: Single-Orientation Quantitative Susceptibility Mapping via Implicit Neural Representation in k-Space**|Xuan Cai et.al.|[2512.09425](http://arxiv.org/abs/2512.09425)|null|
 |**2025-12-08**|**Ab initio study of highly charged ion-induced Coulomb explosion imaging**|Misa Viveiros et.al.|[2512.08102](http://arxiv.org/abs/2512.08102)|null|
@@ -45,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification**|Jakir Hossain et.al.|[2512.20872](http://arxiv.org/abs/2512.20872)|null|
 |**2025-12-14**|**Variable Record Table: A Unified Hardware-Assisted Framework for Runtime Security**|Suraj Kumar Sah et.al.|[2512.15777](http://arxiv.org/abs/2512.15777)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**Towards an AI Fluid Scientist: LLM-Powered Scientific Discovery in Experimental Fluid Mechanics**|Haodong Feng et.al.|[2512.04716](http://arxiv.org/abs/2512.04716)|null|
@@ -81,6 +84,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
+|**2025-12-21**|**Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System**|Zhang Wei et.al.|[2512.20677](http://arxiv.org/abs/2512.20677)|null|
+|**2025-12-20**|**SoK: Understanding (New) Security Issues Across AI4Code Use Cases**|Qilong Wu et.al.|[2512.18456](http://arxiv.org/abs/2512.18456)|null|
+|**2025-12-23**|**Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective**|M. Mehdi Kholoosi et.al.|[2512.18261](http://arxiv.org/abs/2512.18261)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
 |**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
