@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.26
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Type Recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-25**|**Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code**|Shuo Sun et.al.|[2512.21591](http://arxiv.org/abs/2512.21591)|null|
 |**2025-12-22**|**A Universal Framework for Factorial Matched Observational Studies with General Treatment Types: Design, Analysis, and Applications**|Jianan Zhu et.al.|[2512.18997](http://arxiv.org/abs/2512.18997)|null|
 |**2025-12-21**|**Image Denoising via Quantum Reservoir Computing**|Soumyadip Das et.al.|[2512.18612](http://arxiv.org/abs/2512.18612)|null|
 |**2025-12-03**|**Amortized Causal Discovery with Prior-Fitted Networks**|Mateusz Sypniewski et.al.|[2512.11840](http://arxiv.org/abs/2512.11840)|null|
@@ -47,6 +48,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Graph restricted tensors: building blocks for holographic networks**|Rafaĺ Bistroń et.al.|[2512.23005](http://arxiv.org/abs/2512.23005)|null|
+|**2025-12-27**|**CFIghter: Automated Control-Flow Integrity Enablement and Evaluation for Legacy C/C++ Systems**|Sabine Houy et.al.|[2512.22701](http://arxiv.org/abs/2512.22701)|null|
 |**2025-12-24**|**Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification**|Jakir Hossain et.al.|[2512.20872](http://arxiv.org/abs/2512.20872)|null|
 |**2025-12-14**|**Variable Record Table: A Unified Hardware-Assisted Framework for Runtime Security**|Suraj Kumar Sah et.al.|[2512.15777](http://arxiv.org/abs/2512.15777)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
@@ -84,6 +87,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
+|**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-12-21**|**Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System**|Zhang Wei et.al.|[2512.20677](http://arxiv.org/abs/2512.20677)|null|
 |**2025-12-20**|**SoK: Understanding (New) Security Issues Across AI4Code Use Cases**|Qilong Wu et.al.|[2512.18456](http://arxiv.org/abs/2512.18456)|null|
