@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.01
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Type Recovery
@@ -48,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-01**|**In Line with Context: Repository-Level Code Generation via Context Inlining**|Chao Hu et.al.|[2601.00376](http://arxiv.org/abs/2601.00376)|null|
 |**2025-12-28**|**Graph restricted tensors: building blocks for holographic networks**|Rafaĺ Bistroń et.al.|[2512.23005](http://arxiv.org/abs/2512.23005)|null|
 |**2025-12-27**|**CFIghter: Automated Control-Flow Integrity Enablement and Evaluation for Legacy C/C++ Systems**|Sabine Houy et.al.|[2512.22701](http://arxiv.org/abs/2512.22701)|null|
 |**2025-12-24**|**Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification**|Jakir Hossain et.al.|[2512.20872](http://arxiv.org/abs/2512.20872)|null|
@@ -87,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-01**|**An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems**|Md Hasan Saju et.al.|[2601.00254](http://arxiv.org/abs/2601.00254)|null|
 |**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
 |**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|

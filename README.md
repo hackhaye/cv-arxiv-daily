@@ -1,4 +1,4 @@
-## Updated on 2026.01.01
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -49,12 +49,13 @@
 |**2025-10-18**|**Common-Individual Embedding for Dynamic Networks with Temporal Group Structure**|Hairi Bai et.al.|[2510.16337](http://arxiv.org/abs/2510.16337)|null|
 |**2025-10-02**|**Large-Scale Bayesian Causal Discovery with Interventional Data**|Seong Woo Han et.al.|[2510.01562](http://arxiv.org/abs/2510.01562)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## Indirect Call
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-01**|**In Line with Context: Repository-Level Code Generation via Context Inlining**|Chao Hu et.al.|[2601.00376](http://arxiv.org/abs/2601.00376)|null|
 |**2025-12-28**|**Graph restricted tensors: building blocks for holographic networks**|Rafaĺ Bistroń et.al.|[2512.23005](http://arxiv.org/abs/2512.23005)|null|
 |**2025-12-27**|**CFIghter: Automated Control-Flow Integrity Enablement and Evaluation for Legacy C/C++ Systems**|Sabine Houy et.al.|[2512.22701](http://arxiv.org/abs/2512.22701)|null|
 |**2025-12-24**|**Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification**|Jakir Hossain et.al.|[2512.20872](http://arxiv.org/abs/2512.20872)|null|
@@ -90,12 +91,13 @@
 |**2025-11-04**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
 |**2025-10-14**|**Enhancing Neural Code Representation with Additional Context**|Huy Nguyen et.al.|[2510.12082](http://arxiv.org/abs/2510.12082)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## Vulneribility Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-01**|**An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems**|Md Hasan Saju et.al.|[2601.00254](http://arxiv.org/abs/2601.00254)|null|
 |**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
 |**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
@@ -141,7 +143,7 @@
 |**2025-11-20**|**RampoNN: A Reachability-Guided System Falsification for Efficient Cyber-Kinetic Vulnerability Detection**|Kohei Tsujio et.al.|[2511.16765](http://arxiv.org/abs/2511.16765)|null|
 |**2025-11-15**|**Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection**|Jie Chen et.al.|[2511.12164](http://arxiv.org/abs/2511.12164)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
