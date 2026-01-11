@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.06
+## Updated on 2026.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Type Recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**HATIR: Heat-Aware Diffusion for Turbulent Infrared Video Super-Resolution**|Yang Zou et.al.|[2601.04682](http://arxiv.org/abs/2601.04682)|null|
+|**2026-01-04**|**Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks**|Arina Kharlamova et.al.|[2601.01673](http://arxiv.org/abs/2601.01673)|null|
 |**2025-12-25**|**Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code**|Shuo Sun et.al.|[2512.21591](http://arxiv.org/abs/2512.21591)|null|
 |**2025-12-22**|**A Universal Framework for Factorial Matched Observational Studies with General Treatment Types: Design, Analysis, and Applications**|Jianan Zhu et.al.|[2512.18997](http://arxiv.org/abs/2512.18997)|null|
 |**2025-12-21**|**Image Denoising via Quantum Reservoir Computing**|Soumyadip Das et.al.|[2512.18612](http://arxiv.org/abs/2512.18612)|null|
@@ -88,6 +90,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification**|Md Ajoad Hasan et.al.|[2601.02624](http://arxiv.org/abs/2601.02624)|null|
+|**2026-01-05**|**Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection**|Yun Bian et.al.|[2601.02438](http://arxiv.org/abs/2601.02438)|null|
+|**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
 |**2026-01-01**|**An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems**|Md Hasan Saju et.al.|[2601.00254](http://arxiv.org/abs/2601.00254)|null|
 |**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
 |**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
