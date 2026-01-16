@@ -1,4 +1,4 @@
-## Updated on 2026.01.11
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**Hierarchical Precision and Recursion for Accelerating Symmetric Linear Solves on MXUs**|Vicki Carrica et.al.|[2601.08082](http://arxiv.org/abs/2601.08082)|null|
 |**2026-01-08**|**HATIR: Heat-Aware Diffusion for Turbulent Infrared Video Super-Resolution**|Yang Zou et.al.|[2601.04682](http://arxiv.org/abs/2601.04682)|null|
 |**2026-01-04**|**Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks**|Arina Kharlamova et.al.|[2601.01673](http://arxiv.org/abs/2601.01673)|null|
 |**2025-12-25**|**Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code**|Shuo Sun et.al.|[2512.21591](http://arxiv.org/abs/2512.21591)|null|
@@ -51,7 +52,7 @@
 |**2025-10-18**|**Common-Individual Embedding for Dynamic Networks with Temporal Group Structure**|Hairi Bai et.al.|[2510.16337](http://arxiv.org/abs/2510.16337)|null|
 |**2025-10-02**|**Large-Scale Bayesian Causal Discovery with Interventional Data**|Seong Woo Han et.al.|[2510.01562](http://arxiv.org/abs/2510.01562)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Indirect Call
 
@@ -93,12 +94,19 @@
 |**2025-11-04**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
 |**2025-10-14**|**Enhancing Neural Code Representation with Additional Context**|Huy Nguyen et.al.|[2510.12082](http://arxiv.org/abs/2510.12082)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Vulneribility Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-14**|**Deep Learning-based Binary Analysis for Vulnerability Detection in x86-64 Machine Code**|Mitchell Petingola et.al.|[2601.09157](http://arxiv.org/abs/2601.09157)|null|
+|**2026-01-12**|**Examining the Effectiveness of Transformer-Based Smart Contract Vulnerability Scan**|Emre Balci et.al.|[2601.07334](http://arxiv.org/abs/2601.07334)|null|
+|**2026-01-11**|**Zer0n: An AI-Assisted Vulnerability Discovery and Blockchain-Backed Integrity Framework**|Harshil Parmar et.al.|[2601.07019](http://arxiv.org/abs/2601.07019)|null|
+|**2026-01-11**|**Towards Compositional Generalization in LLMs for Smart Contract Security: A Case Study on Reentrancy Vulnerabilities**|Ying Zhou et.al.|[2601.06914](http://arxiv.org/abs/2601.06914)|null|
+|**2026-01-10**|**Lightweight Yet Secure: Secure Scripting Language Generation via Lightweight LLMs**|Keyang Zhang et.al.|[2601.06419](http://arxiv.org/abs/2601.06419)|null|
+|**2026-01-07**|**AutoVulnPHP: LLM-Powered Two-Stage PHP Vulnerability Detection and Automated Localization**|Zhiqiang Wang et.al.|[2601.06177](http://arxiv.org/abs/2601.06177)|null|
+|**2026-01-09**|**HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors**|Jingxiao Yang et.al.|[2601.05587](http://arxiv.org/abs/2601.05587)|null|
 |**2026-01-06**|**LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification**|Md Ajoad Hasan et.al.|[2601.02624](http://arxiv.org/abs/2601.02624)|null|
 |**2026-01-05**|**Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection**|Yun Bian et.al.|[2601.02438](http://arxiv.org/abs/2601.02438)|null|
 |**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
@@ -148,7 +156,7 @@
 |**2025-11-20**|**RampoNN: A Reachability-Guided System Falsification for Efficient Cyber-Kinetic Vulnerability Detection**|Kohei Tsujio et.al.|[2511.16765](http://arxiv.org/abs/2511.16765)|null|
 |**2025-11-15**|**Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection**|Jie Chen et.al.|[2511.12164](http://arxiv.org/abs/2511.12164)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
