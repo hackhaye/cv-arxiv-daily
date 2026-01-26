@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Type Recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Pristine and Doped MoS2 Monolayers as Potential HCN Gas Sensors: A DFT Study**|Neeraj Thakur et.al.|[2601.14972](http://arxiv.org/abs/2601.14972)|null|
+|**2026-01-20**|**Two-stage least squares with clustered data**|Anqi Zhao et.al.|[2601.13507](http://arxiv.org/abs/2601.13507)|null|
 |**2026-01-15**|**Semiparametric inference for inequality measures under nonignorable nonresponse using callback data**|Xinyu Wang et.al.|[2601.10501](http://arxiv.org/abs/2601.10501)|null|
 |**2026-01-12**|**Hierarchical Precision and Recursion for Accelerating Symmetric Linear Solves on MXUs**|Vicki Carrica et.al.|[2601.08082](http://arxiv.org/abs/2601.08082)|null|
 |**2026-01-08**|**HATIR: Heat-Aware Diffusion for Turbulent Infrared Video Super-Resolution**|Yang Zou et.al.|[2601.04682](http://arxiv.org/abs/2601.04682)|null|
@@ -52,6 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition**|Asif Mohammed Samir et.al.|[2601.12522](http://arxiv.org/abs/2601.12522)|null|
 |**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
 |**2026-01-14**|**CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents**|Hanna Foerster et.al.|[2601.09923](http://arxiv.org/abs/2601.09923)|null|
 |**2026-01-01**|**In Line with Context: Repository-Level Code Generation via Context Inlining**|Chao Hu et.al.|[2601.00376](http://arxiv.org/abs/2601.00376)|null|
@@ -79,7 +82,7 @@ layout: default
 |**2025-12-01**|**Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code**|Pritam Deka et.al.|[2512.02170](http://arxiv.org/abs/2512.02170)|null|
 |**2025-12-01**|**Bounded treewidth, multiple context-free grammars, and downward closures**|C. Aiswarya et.al.|[2512.01973](http://arxiv.org/abs/2512.01973)|null|
 |**2025-12-01**|**Minimally tough series-parallel graphs with toughness at least $1/2$**|Gyula Y. Katona et.al.|[2512.01905](http://arxiv.org/abs/2512.01905)|null|
-|**2025-11-28**|**GAPS: Guiding Dynamic Android Analysis with Static Path Synthesis**|Samuele Doria et.al.|[2511.23213](http://arxiv.org/abs/2511.23213)|null|
+|**2026-01-20**|**Mind the GAPS: Bridging the GAPS between Targeted Dynamic Analysis and Static Path Reconstruction in Android Apps**|Samuele Doria et.al.|[2511.23213](http://arxiv.org/abs/2511.23213)|null|
 |**2025-11-13**|**AssertMiner: Module-Level Spec Generation and Assertion Mining using Static Analysis Guided LLMs**|Hongqin Lyu et.al.|[2511.10007](http://arxiv.org/abs/2511.10007)|null|
 |**2025-11-10**|**PhaseSeed: Precise Call Graph Construction for Split-Phase Applications using Dynamic Seeding**|Tapti Palit et.al.|[2511.06661](http://arxiv.org/abs/2511.06661)|null|
 |**2025-11-01**|**SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin**|Vahid Etemadi et.al.|[2511.00450](http://arxiv.org/abs/2511.00450)|null|
@@ -94,6 +97,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**A Prompt-Based Framework for Loop Vulnerability Detection Using Local LLMs**|Adeyemi Adeseye et.al.|[2601.15352](http://arxiv.org/abs/2601.15352)|null|
+|**2026-01-19**|**Analysis of Long Range Dependency Understanding in State Space Models**|Srividya Ravikumar et.al.|[2601.13048](http://arxiv.org/abs/2601.13048)|null|
+|**2026-01-17**|**Enhancing Fuzz Testing Efficiency through Automated Fuzz Target Generation**|Chi Thien Tran et.al.|[2601.11972](http://arxiv.org/abs/2601.11972)|null|
 |**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
 |**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
 |**2026-01-14**|**Deep Learning-based Binary Analysis for Vulnerability Detection in x86-64 Machine Code**|Mitchell Petingola et.al.|[2601.09157](http://arxiv.org/abs/2601.09157)|null|
